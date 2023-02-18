@@ -1,0 +1,103 @@
+				BIENVENUE DANS VOTRE ASSISTANT DE GESTION DES UTILISATEURS
+								USER MANAGEMENT SYSTEM
+									MENU PRINCIPAL
+
+									NDOH NDJIMA TRESOR
+									
+	            LES AUTEURS	
+
+
+
+			    DESCRIPTION
+
+Dans un premier temps, le projet consiste à automatiser les tâches suivantes; 
+- L’ajout des utilisateurs dynamiquement à l'aide d'un fichier csv ou 
+  manuellement depuis le terminal
+- La vérification de l'existence d'un utilisateur
+- La désactivation et l'activation des comptes des utilisateurs
+- Supprimer un utilisateur et en cas de suppression d'un utilisateur son 
+  dossier principal doit être archiver, conserver et supprimer 30 jours après 
+  de manière automatique.
+
+Puis dans un deuxième temps, le projet va se résumer à mettre en place une politique de gestion 
+des données afin de mieux un PCA en cas de sinistre. Pour cela, il s'agira archiver les dossiers
+principaux des comptes utilisateurs dans un dossier partagé sur une base hebdomadaire.
+
+			COMMENT INSTALLER ET EXECUTER LE PROJET
+
+	Avec notre application appelée Gus, nous sommes en mesure de créer un 
+	utilisateur, de supprimer un utilisateur, de vérifier l'existence d'un 
+	utilisateur, nous avons également mis en place une polotique de gestion 
+	des donnees leur permettant de poursuivre l'activite en cas de sinistre.
+
+	Pour installer ce program copier le code ./userman.sh ou gus
+
+			COMMENT UTILISER LE PROJET
+
+			 "************************************************************************"
+			 "*              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                          *"
+			 "*           ||   *   *  *****  *****  *****   ||                       *"
+			 "*           ||   *   *  *      *      *   *   ||                       *"
+			 "*           ||   *   *  *****  *****  ***     ||                       *"
+			 "*           ||   *   *      *  *      *  *    ||                       *"
+			 "*           ||   *****  *****  *****  *   *   ||                       *"
+			 "*              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                          *"
+
+			 "*   ~~~  Bienvenue dans votre assistant de gestion des utilisateurs ~~~*"
+			 "*                ~~~~~ User Management System ~~~~~                    *"
+			 "*                     ~~~~ Menu Principal ~~~~                         *"
+			 "*   1) Ajouter un/des utilisateur(s).                                  *"
+			 "*   2) Verifier l'existence d'un utilisateur.                          *"
+			 "*   3) Activer/Desactiver un utilisateur.                              *"
+			 "*   4) Supprimer un utilisateur.                                       *"
+			 "************************************************************************"
+
+ *	Option 1 - POUR AJOUTER LES UTILISATEURS (manuellement ou dynamiquement)
+	
+			*************************************************************
+			*             ~~~  User Management System  ~~~              *
+			*               Ici le code la premiere option              *
+			*   1) Ajouter les utilisateurs du fichier useradd.csv      *
+			*   2) Ajouter un utilisateur manuellement                  *
+			*************************************************************
+
+	Puis vous selectioner entre l'option 1 et 2 selon votre choix et vous laissez le systeme vous guidee.
+	
+*	Option 2 - POUR VERIFIER L'EXISTANCE D'UN UTILISATEUR
+
+			**********************************************
+			*       ~~~  User Management System  ~~~     *
+			*                                            *
+			*     Ici le code de la deuxieme option      *
+			**********************************************
+
+			Entrer le nom d'utilisateur:
+			
+
+* Option 3 - POUR ACTIVER / DESACTIVER UN UTILISATEUR
+
+			**********************************************************
+			*          ~~~  User Management System  ~~~              *
+			*                                                        *
+			*           Ici le code de la troisieme option           *
+			*                                                        *
+			*        1) Activer un compte utlisateur                 *
+			*                                                        *
+			*        2) Desactiver un compte utilisateur             *
+			*                                                        *
+			**********************************************************
+			Veuillez choisir une option svp:
+			
+	Tapez "1" pour activer le compte
+	Tapez "2" pour deactiver le compte
+
+* Option 4 - SUPPRIMER UN UTILISATEUR
+
+			***********************************************************
+			*          ~~~  User Management System  ~~~               *
+			*                                                         *
+			*            Ici le code la quatrieme option              *
+			***********************************************************
+			Entrez le nom de l'utilisateur a supprimer:
+
+
